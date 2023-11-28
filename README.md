@@ -1,2 +1,4 @@
 # Sistema_PDV_JAVA
-PROJETO DE POO PARA O CURSO DE ADS 
+Este é um prjeto feito como avaliação para a materia de POO do curso de Analise e Desenvolvimento de Sistemas
+É um projeto que permite o cadastro de clientes e usuários, e o cadastro de serviços.
+O projeto esta estruturado em java e foi feito com a IDE Netbeans.
